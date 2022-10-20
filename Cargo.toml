@@ -1,10 +1,10 @@
 [package]
-name = "rgb-core"
+name = "rgb-core2"
 version = "0.8.0"
 license = "MIT"
-authors = ["Dr Maxim Orlovsky <orlovsky@lnp-bp.org>"]
-description = "RGB Core Library: consensus & verification for private & scalable client-validated smart contracts on Bitcoin & Lightning"
-repository = "https://github.com/RGB-WG/rgb-core"
+authors = ["Jomagalo <jomagalo@gmail.com>"]
+description = "RGB Core Library: consensus & verification for private & scalable client-validated smart contracts on Bitcoin II & Lightning"
+repository = "https://github.com/jomagalo/rgb-core"
 homepage = "https://rgb.network"
 keywords = ["bitcoin", "lightning", "rgb", "smart-contracts", "lnp-bp"]
 categories = ["cryptography::cryptocurrencies"]
